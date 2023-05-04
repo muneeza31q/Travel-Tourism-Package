@@ -68,3 +68,9 @@ ProductPitched: Product pitched by the salesperson
 NumberOfFollowups: Total number of follow-ups has been done by the salesperson after the sales pitch
 
 DurationOfPitch: Duration of the pitch by a salesperson to the customer
+
+## Methodology
+
+## Results
+
+## Actionable Insights & Recommendations
