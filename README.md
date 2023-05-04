@@ -70,6 +70,8 @@ NumberOfFollowups: Total number of follow-ups has been done by the salesperson a
 DurationOfPitch: Duration of the pitch by a salesperson to the customer
 
 ## Methodology
+The data was collected from customer surveys conducted by the company. The data was pre-processed and cleaned to treat any invalid or missing data. The variables used in the analysis include CustomerID, ProdTaken, Age, TypeofContact, CityTier, DurationOfPitch, Occupation, Gender, NumberOfPersonVisiting, NumberOfFollowups, 
+ProductPitched, PreferredPropertyStar, MaritalStatus, NumberOfTrips, Passport, PitchSatisfactionScore, OwnCar, NumberOfChildrenVisiting, Designation, and MonthlyIncome. I assumed that the data was representative of the entire customers from the company.
 
 ## Results
 
