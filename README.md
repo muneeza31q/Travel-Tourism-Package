@@ -74,6 +74,7 @@ The data was collected from customer surveys conducted by the company. The data 
 ProductPitched, PreferredPropertyStar, MaritalStatus, NumberOfTrips, Passport, PitchSatisfactionScore, OwnCar, NumberOfChildrenVisiting, Designation, and MonthlyIncome. I assumed that the data was representative of the entire customers from the company.
 
 ## Results
+In this analysis, it seems that Age and Monthly Income are positively correlated. ProdTaken (if the package was purchased or not) has a weak negative correlation with age which agrees with our earlier observation that as age increases the probability for purchasing a package decreases. Descriptive statistics and visualizations of the data showed that 72% of passengers rated their overall experience as neutral or dissatisfied, with the majority of them being first time passengers. In-flight service and baggage had the highest mean ratings, while online boarding and in-flight WiFi service had the lowest mean ratings. These ratings are from airline passengers who rated satisfied and neutral/dissatisfied.
 
 ## Actionable Insights and Business Recommendations
 - In this analysis shows that very few customers have passports, and they are more likely to purchase the travel package. The company should customize more international packages to attract more such customers.
