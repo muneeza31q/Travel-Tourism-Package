@@ -73,4 +73,10 @@ DurationOfPitch: Duration of the pitch by a salesperson to the customer
 
 ## Results
 
-## Actionable Insights & Recommendations
+## Actionable Insights and Business Recommendations
+- In this analysis shows that very few customers have passports, and they are more likely to purchase the travel package. The company should customize more international packages to attract more such customers.
+- There are customers from tier 1 and tier 3 cities but very few from tier 2 cities. The company should expand its marketing strategies to increase the number of customers from tier 2 cities.
+- I saw in this analysis that people with higher income or at high positions like AVP or VP are less likely to buy the product. The company can offer short-term travel packages and customize the package for higher- income customers with added luxuries to target such customers.
+- When implementing a marketing strategy, external factors, such as the number of follow-ups, time of call, should also be carefully considered as our analysis shows that the customers who have been followed up more are the ones buying the package.
+- After I identified a potential customer, the company should pitch packages as per the customer's monthly income, for example, do not pitch King packages to a customer with low income and such packages can be pitched more to the higher-income customers.
+- In this analysis, young and single people are more likely to buy the offered packages. The company can offer discounts or customize the package to attract more couples, families, and customers above 30 years of age.
